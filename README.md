@@ -3,7 +3,6 @@
 The repo contains a Node.js script that connects to the running League client (LCU API) and exports which champions you've completed per challenge.
 
 ```bash
-cd tools
 npm install
 node export.mjs
 ```
